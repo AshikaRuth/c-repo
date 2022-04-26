@@ -1,2 +1,2 @@
 # c-repo
-This repo contains my short programs which I created while learning c++.
+This repo contains my short programs which I created for practicing c++.
